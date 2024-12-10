@@ -4,7 +4,7 @@ A boilerplate to build R3F projects
 ```
 yarn
 yarn dev
+
+
 ```
-
-
-![image](https://user-images.githubusercontent.com/6551176/221732091-23ee52cb-4150-42fa-b998-43628d7a6b0d.png)
+<img width="851" alt="mesh-explosion-effect" src="https://github.com/user-attachments/assets/bf8f52e4-9645-4c96-9c91-15cb4266caf2">
